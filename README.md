@@ -5,7 +5,7 @@ We provide the code (in pytorch) and datasets for our work: "Link Prediction on 
 ## 1. Desription
 The repository is organised as follows:
 
-* dataset/: contains the 4 benchmark datasets: fb15k-237, wn18rr, dblp. ogb-mag. All datasets will be processed on the fly. Please extract the compressed file of each dataset before running.
+* dataset/: contains the 3 benchmark datasets: fb15k-237, wn18rr and dblp (ogb-mag is too large so we didn't upload). All datasets will be processed on the fly. Please extract the compressed file of each dataset before running.
 
 * codes/: contains our model and processing functions.
 
