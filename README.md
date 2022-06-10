@@ -23,5 +23,5 @@ cd codes/
 - python main.py --dataset=fb15k-237 
 - python main.py --dataset=wn18rr --max_l=5 --lr=1e-4
 - python main.py --dataset=dblp --max_l=3 --gamma=0.3
-- python main.py --dataset=ogb 
+
 
